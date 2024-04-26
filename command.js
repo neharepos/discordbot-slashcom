@@ -3,8 +3,8 @@ const dotenv = require ("dotenv");
 dotenv.config()
 const commands = [
     {
-        name: 'ping',
-        description: 'Replies with Pong!',
+        name: "create",
+        description: "Create a new short URL",
     },
 ];
 
